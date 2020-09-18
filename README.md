@@ -7,11 +7,11 @@ We have a small task for you, which cover all topics which you'll be able to mee
 
 [Last.fm](https://www.last.fm/) is a well-known website which allows you to manage your music recommendation.
 
-**We would like to know which songs are currently the most popular in Poland and around the World.**
+**We would like to know which artists are currently the most popular in Poland and around the World.**
 
 Your task is create a website which allow us to check this data.
 
-Our website should looks like this:
+Our website should look like this:
 
 ![task preview](http://cdn.perfo.me/junior-frontend-recruitment-task-preview.png)
 
@@ -19,15 +19,17 @@ Our website should looks like this:
 
 Project goals:
 
+* Implement the website according to the [project](https://www.figma.com/file/3o9ia7vUV89deFesxn2wFh/Recruitment-Landing-Page-Junior-Frontend-Test?node-id=0%3A1)
+
 * User can select between global and polish top charts
 
-* Top 5 albums are visible as a carousel
+* Top 5 artists are visible as a carousel
 
-* Another 15 albums should be visible as a card
+* Another 15 artists should be visible as a card
 
-* User should be able to search album contain specific word
+* User should be able to search artist contain specific word
 
-* User should be able to rate album (vote don't have to be saved, we only want to see how it will be visible for user)
+* User should be able to rate artist (vote don't have to be saved, we only want to see how it will be visible for user)
 
 ---
 
