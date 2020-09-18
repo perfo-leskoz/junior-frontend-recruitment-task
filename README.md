@@ -12,6 +12,7 @@ We have a small task for you, which cover all topics which you'll be able to mee
 Your task is create a website which allow us to check this data.
 
 Our website should looks like this:
+
 ![task preview](http://cdn.perfo.me/junior-frontend-recruitment-task-preview.png)
 
 ---
