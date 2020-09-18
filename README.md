@@ -11,7 +11,7 @@ We have a small task for you, which cover all topics which you'll be able to mee
 
 Your task is create a website which allow us to check this data.
 
-Our website should looks like this (placeholder for now)
+Our website should looks like this:
 ![task preview](http://cdn.perfo.me/junior-frontend-recruitment-task-preview.png)
 
 ---
@@ -26,7 +26,7 @@ Project goals:
 
 * User should be able to search album contain specific word
 
-* User should be able to rate album (vote don't have to be store, we only want to see how it will be visible for user)
+* User should be able to rate album (vote don't have to be saved, we only want to see how it will be visible for user)
 
 ---
 
